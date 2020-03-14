@@ -12,6 +12,8 @@ Tests shows that users incur cost (in terms of gas on Ethereum) of 214,731 which
 schemes.
 # Requirements
 Chrome browser with MetaMask extension installed.
+
 Blockchain testnet
+
 Python
 
